@@ -1,4 +1,4 @@
-## Hello!
+## Why, hello there!
 Small, hobby development team making small games
 
 ## Links:
