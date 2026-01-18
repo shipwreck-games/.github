@@ -3,7 +3,7 @@ Small, hobby development team making small games
 
 ## Links:
 - Itch.io: https://shipwreck-games.itch.io/
-- Steam: TBD
+- Steam: https://steamcommunity.com/profiles/76561198747373182/
 
 <!--
 
